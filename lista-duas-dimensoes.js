@@ -5,4 +5,4 @@ const listaDeAlunosEMedias = [alunos, medias];
 
 console.log(`A aluna da posição 1 da lista de alunos é ${
     listaDeAlunosEMedias[0][1]
-}`);
+}.\nA nota dessa aluna é ${listaDeAlunosEMedias[1][1]}`);
